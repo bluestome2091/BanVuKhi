@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    // menu
+    <string name="app_name">Bán Vũ Khí</string>
+    <string name="trangchu">Trang chủ</string>
+    <string name="thongtintaikhoan">Thông tin tài khoản</string>
+    <string name="themvukhi">Thêm vũ khí</string>
+    <string name="thongtinchitiet">Thông tin chi tiết</string>
+    <string name="danhmuc">Danh mục</string>
+    <string name="thoat">Đăng xuất</string>
+    <string name="title_activity_maps">Bản đồ</string>
+
+    // đăng nhập
+    <string name="dangnhap">Đăng nhập</string>
+    <string name="nutdangnhap">Đăng nhập</string>
+    <string name="hintName">Tên đăng nhập</string>
+    <string name="hintPass">Mật khẩu</string>
+
+    / trang sản phẩm
+    <string name="giasp">Giá: </string>
+
+    // trang hiển thị chi tiết
+    <string name="hienthi">Hiển thị chi tiết</string>
+    <string name="tenct">Tên sản phẩm: </string>
+    <string name="giact">Giá: </string>
+    <string name="mauct">Màu: </string>
+    <string name="phanloaict">Phân loại: </string>
+
+    // trang chỉnh sửa chi tiết
+    <string name="chinhsua">Chỉnh sửa chi tiết</string>
+    <string name="ten">Tên sản phẩm: </string>
+    <string name="gia">Giá: </string>
+    <string name="mau">Màu: </string>
+    <string name="phanloai">Phân loại: </string>
+    <string name="chonhinh">Chọn hình </string>
+    <string name="capnhat">Cập nhật</string>
+
+    // trang danh mục
+    <string name="madm">Mã phân loại: </string>
+    <string name="madmhint">Mã phân loại</string>
+    <string name="tendm">Tên phân loại: </string>
+    <string name="sua">Sửa</string>
+    <string name="them">Thêm</string>
+
+    // trang thêm cũ khí
+    <string name="tenthem">Tên sản phẩm: </string>
+    <string name="giathem">Giá: </string>
+    <string name="mauthem">Màu: </string>
+    <string name="phanloaithem">Phân loại: </string>
+    <string name="chonhinhthem">Chọn hình</string>
+    <string name="trolai">Trở lại</string>
+    <string name="themthem">Thêm</string>
+    <string name="tenthemhint">Tên sản phẩm</string>
+    <string name="giathemhint">Giá</string>
+    <string name="mauthemhint">Màu</string>
+    <string name="phanloaithemhint">Phân loại</string>
+
+</resources>

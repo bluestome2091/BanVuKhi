@@ -1,0 +1,57 @@
+<resources>
+    // meunu
+    <string name="app_name">Sell weapons</string>
+    <string name="trangchu">Home</string>
+    <string name="thongtintaikhoan">Account information</string>
+    <string name="themvukhi">Add weapon</string>
+    <string name="thongtinchitiet">Details</string>
+    <string name="danhmuc">Category</string>
+    <string name="thoat">Logout</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    // trang đăng nhập
+    <string name="dangnhap">SIGN IN</string>
+    <string name="nutdangnhap">Login</string>
+    <string name="hintName">Name</string>
+    <string name="hintPass">Password</string>
+
+    // trang sản phẩm
+    <string name="giasp">Price: </string>
+
+    // trang hiển thị chi tiết
+    <string name="hienthi">Show details</string>
+    <string name="tenct">Name: </string>
+    <string name="giact">Price: </string>
+    <string name="mauct">Color: </string>
+    <string name="phanloaict">Classify: </string>
+
+    // trang chỉnh sửa chi tiết
+    <string name="chinhsua">Edit details</string>
+    <string name="ten">Name: </string>
+    <string name="gia">Price: </string>
+    <string name="mau">Color: </string>
+    <string name="phanloai">Classify: </string>
+    <string name="chonhinh">Choose picture</string>
+    <string name="capnhat">Update</string>
+
+    // trang danh mục
+    <string name="madm">ID: </string>
+    <string name="madmhint">ID</string>
+    <string name="tendm">Name: </string>
+    <string name="sua">Edit</string>
+    <string name="them">Add</string>
+
+    // trang thêm cũ khí
+    <string name="tenthem">Name: </string>
+    <string name="giathem">Price: </string>
+    <string name="mauthem">Color: </string>
+    <string name="phanloaithem">Classify: </string>
+    <string name="chonhinhthem">Choose picture</string>
+    <string name="trolai">Back</string>
+    <string name="themthem">Add</string>
+    <string name="tenthemhint">Name</string>
+    <string name="giathemhint">Price</string>
+    <string name="mauthemhint">Color</string>
+    <string name="phanloaithemhint">Classify</string>
+
+</resources>

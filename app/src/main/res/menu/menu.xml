@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menuTrangChu"
+        android:icon="@drawable/logout"
+        android:title="@string/trangchu"
+        app:showAsAction="withText" />
+    <item
+        android:id="@+id/menuDanhMuc"
+        android:icon="@drawable/ic_dahmuc"
+        android:title="@string/danhmuc"
+        app:showAsAction="withText" />
+    <item
+        android:id="@+id/menuEditprofile"
+        android:icon="@drawable/editprofile"
+        android:title="@string/thongtintaikhoan"
+        app:showAsAction="withText" />
+
+    <item
+        android:id="@+id/menuLayout"
+        android:icon="@drawable/logout"
+        android:title="@string/thoat"
+        app:showAsAction="withText" />
+</menu>
